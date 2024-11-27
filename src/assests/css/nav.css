@@ -1,0 +1,146 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@500&display=swap');
+.navbar {
+  font-family: "Noto Sans", sans-serif;
+  padding: 0 60px;
+  position: fixed;
+  top: 0;
+  z-index: 1000; 
+
+  width: 100%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.064), 0 6px 20px 0 rgba(0, 0, 0, 0.16);
+
+}
+
+
+.dropdown {
+  position: absolute;
+  top: calc(100% + 10px); 
+  left: 0;
+  width: 100%;
+  z-index: 1000; 
+  background-color: white; 
+  margin: 0px;
+  opacity: 1;
+
+}
+
+.dropdown.show {
+  display: block;
+}
+
+.dropdown .content {
+  padding: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.064), 0 6px 20px 0 rgba(0, 0, 0, 0.16);
+  text-align: center;
+  border-radius: 10px;
+}
+
+.dropdown .content a {
+  display: block;
+  padding: 10px;
+  color: black;
+  text-decoration: none;
+ 
+}
+
+
+.dropdown .content a:hover {
+  background-color:white;
+  /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.064), 0 6px 20px 0 rgba(0, 0, 0, 0.16); */
+  color: #f4815a;
+}
+
+.menu-button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+}
+
+.profile-1 {
+  width: 30px;
+  height: 30px;
+  display: none; 
+}
+
+
+
+.logo {
+  width: 95px;
+  /* margin-left: 60px; */
+  height: 35px;
+  padding: 0px;
+}
+.contactus_btn.css-sghohy-MuiButtonBase-root-MuiButton-root {
+  background-color: #f4815a;
+  color: black;
+  font-size: 11px;
+  border-radius: 10px;
+  margin-top: -3px;
+  
+  padding: 5px 15px;
+  font-family: 'Noto Sans', sans-serif;
+}
+.contactus_btn.css-sghohy-MuiButtonBase-root-MuiButton-root:hover {
+  background-color: #f4815a;
+}
+
+.list-item li a {
+  color: black;
+  text-decoration: none;
+  font-size: 12px;
+}
+.list-item {
+  list-style-type: none;
+  padding:0 0;
+  display: flex;
+  margin: 0 0;
+  position: relative;
+  left: 26px;
+}
+.list-item li {
+  margin: 0px 30px;
+}
+.profile {
+  width: 30px;
+  height: 30px;
+}
+
+.list-item a:hover {
+  color: #f4815a;
+}
+
+.menu:hover{
+  color: #f4815a;
+}
+@media screen and (max-width: 1000px){
+  .list-item li {
+    margin: 0px 24px;
+  }
+}
+
+
+@media screen and (max-width: 992px){
+  .list-item li {
+    margin: 0px 22px;
+  }
+}
+@media screen and (max-width: 900px) {
+  .profile-1 {
+    display: inline-block;
+  }
+}
+@media screen and (min-width: 901px) {
+  .profile-1 {
+    display: none; /* Hide for larger screens */
+  }
+}
+
+@media screen and (max-width: 768px){
+  .navbar {
+    font-family: "Noto Sans", sans-serif;
+    padding: 0 10px;
+  }
+}

@@ -1,0 +1,116 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@800&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400&display=swap');
+
+
+
+
+.capability{
+    margin-top: 150px;
+    padding: 0px 120px;
+  
+}
+.cap-card{
+    margin-top: 120px;
+    width:100%;
+    height: 320px;
+ border-radius: 22px;
+ padding: 0px 40px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.064), 0 6px 20px 0 rgba(0, 0, 0, 0.16);
+
+}
+.cap1{
+    width: 540px;
+    height: 400px;
+}
+.cap-row{
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.innovation{
+    font-family: "Noto Sans", sans-serif;
+  font-size: 28px;
+  font-weight: 800;
+  font-style: normal;
+}
+.cap-points{
+    font-family: "Noto Sans", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    font-style: normal;
+}
+.custom-card{
+    height: 250px;
+    border-radius: 26px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.064), 0 6px 20px 0 rgba(0, 0, 0, 0.16);
+
+}
+.custom{
+    font-family: "Noto Sans", sans-serif;
+    font-size: 28px;
+    font-weight: 800;
+    font-style: normal;
+    margin-top: 100px;
+}
+.custom1{
+    width: 74px;
+    height: 74px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.custom-para{
+   
+        font-family: "Noto Sans", sans-serif;
+        font-size: 13px;
+        font-weight: 400;
+        font-style: normal;
+        padding: 0px 10px;
+}
+.custom-para1{
+   
+    font-family: "Noto Sans", sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    font-style: normal;
+    padding: 0px 20px;
+}
+.custom-para2{
+   
+    font-family: "Noto Sans", sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    font-style: normal;
+    padding: 0px 25px;
+}
+.state-of{
+    width: 1120px;
+    height:380px;
+   background-size: contain;
+    background-image: url("../img/state-of.png");
+   float: right;
+   background-repeat: no-repeat;
+   margin-top: 120px;
+overflow: hidden;
+
+}
+.rd-lab{
+    font-family: "Noto Sans", sans-serif;
+    font-size: 28px;
+    font-weight: 800;
+    font-style: normal;  
+}
+.st-img{
+    height:300px ;
+    margin-top: 80px;
+    margin-left: auto;
+    margin-right:auto;
+}
+.con-div{
+    margin-top: 100px;
+}

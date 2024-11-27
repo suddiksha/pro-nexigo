@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "nexigo24-b281b",
+    "staging": "nexigo24-b281b"
+  },
+  "targets": {},
+  "etags": {}
+}

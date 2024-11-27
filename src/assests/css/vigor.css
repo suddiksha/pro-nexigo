@@ -1,0 +1,504 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+
+.bty3{
+    width: 100%;
+    height: auto;
+  position: relative;
+  right: 180px;
+}
+.head2{
+  font-size: 20px;
+  font-family: 'Noto Sans', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.vigo{
+  color: #FF3F0F;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.btyhead{
+  color: #1A1A1A;
+
+
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-top: 100px;
+}
+
+.vigopara{
+  color: #000;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 14px;
+
+font-style: normal;
+font-weight: 400;
+letter-spacing: 0.32px;
+
+
+}
+.circle.css-i4bv87-MuiSvgIcon-root{
+  width: 1%;
+  height: 1%;
+
+}
+.vigorpoint{
+  color: #000;
+font-family: Noto Sans;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+
+
+
+
+@media screen and (max-width: 1400px){
+
+.btyhead{
+    color: #1A1A1A;
+  
+  
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: 120px!important;
+  }
+
+}
+
+@media screen and (max-width: 1200px){
+
+  .bty3{
+    width: 100%;
+    height: auto;
+  position: relative;
+  right: 180px!important;
+}
+  .vigopara{
+    color: #000;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 13px;
+  
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.32px;
+  
+  
+  }
+
+
+  .vigorpoint{
+    color: #000;
+  font-family: Noto Sans;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  }
+
+  .btyhead{
+    color: #1A1A1A;
+  
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: 70px!important;
+  }
+
+}
+
+
+@media screen and (max-width: 992px){
+
+  .bty3{
+    width: 100%;
+    height: auto;
+  position: relative;
+  right: 150px!important;
+}
+  .vigopara{
+    color: #000;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 11px;
+  
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.32px;
+  
+  
+  }
+
+
+  .vigorpoint{
+    color: #000;
+  font-family: Noto Sans;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  }
+
+  .btyhead{
+    color: #1A1A1A;
+  
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 38px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: 50px!important;
+  }
+  .head2{
+    font-size: 18px;
+    font-family: 'Noto Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  
+  .vigo{
+    color: #FF3F0F;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+}
+
+ 
+
+
+@media screen and (max-width: 900px){
+
+  .bty3{
+    width: 100%;
+    height: auto;
+  position: relative;
+  right: 140px!important;
+}
+  .vigopara{
+    color: #000;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 10px;
+  
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.32px;
+  
+  
+  }
+
+
+  .vigorpoint{
+    color: #000;
+  font-family: Noto Sans;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  }
+
+  .btyhead{
+    color: #1A1A1A;
+  
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 38px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: 30px!important;
+  }
+  .head2{
+    font-size: 16px;
+    font-family: 'Noto Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  
+  .vigo{
+    color: #FF3F0F;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+}
+@media screen and (max-width: 768px){
+
+  .viw{
+    padding: 0 30px!important;
+  }
+  .bty1{
+  width: 100%!important;
+    height: auto;
+    text-align: center!important;
+
+}
+  .vigopara{
+    color: #000;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 17px;
+  
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.32px;
+  
+  
+  }
+
+
+  .vigorpoint{
+    color: #000;
+  font-family: Noto Sans;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  }
+
+  .btyhead{
+    color: #1A1A1A;
+
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 40px;
+    text-align: center;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: 100px!important;
+  }
+  .head2{
+    font-size: 25px;
+    font-family: 'Noto Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+    line-height: normal;
+  }
+  
+  .vigo{
+    color: #FF3F0F;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 25px;
+    
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+}
+
+@media screen and (max-width: 576px){
+
+  .viw{
+    padding: 0 20px!important;
+  }
+  .bty1{
+  width: 100%!important;
+    height: auto;
+    text-align: center!important;
+
+}
+  .vigopara{
+    color: #000;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 13px;
+  
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.32px;
+  
+  
+  }
+
+
+  .vigorpoint{
+    color: #000;
+  font-family: Noto Sans;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  }
+
+  .btyhead{
+    color: #1A1A1A;
+
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 38px;
+    text-align: center;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: 100px!important;
+  }
+  .head2{
+    font-size: 20px;
+    font-family: 'Noto Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+    line-height: normal;
+  }
+  
+  .vigo{
+    color: #FF3F0F;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 20px;
+    
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+}
+
+
+@media screen and (max-width: 450px){
+
+  .viw{
+    padding: 0 20px!important;
+  }
+  .bty1{
+  width: 100%!important;
+    height: auto;
+    text-align: center!important;
+
+}
+  .vigopara{
+    color: #000;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 12px;
+  
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.32px;
+  
+  
+  }
+
+
+  .vigorpoint{
+    color: #000;
+  font-family: Noto Sans;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  }
+
+  .btyhead{
+    color: #1A1A1A;
+
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 34px;
+    text-align: center;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: 80px!important;
+  }
+  .head2{
+    font-size: 15px;
+    font-family: 'Noto Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+    line-height: normal;
+  }
+  
+  .vigo{
+    color: #FF3F0F;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 15px;
+    
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+}
+
+
+
+@media screen and (max-width: 350px){
+
+  .viw{
+    padding: 0 20px!important;
+  }
+  .bty1{
+  width: 100%!important;
+    height: auto;
+    text-align: center!important;
+
+}
+  .vigopara{
+    color: #000;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 11px;
+  
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.32px;
+  
+  
+  }
+
+
+  .vigorpoint{
+    color: #000;
+  font-family: Noto Sans;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  }
+
+  .btyhead{
+    color: #1A1A1A;
+
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 32px;
+    text-align: center;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: 100px!important;
+  }
+  .head2{
+    font-size: 11px;
+    font-family: 'Noto Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+    line-height: normal;
+  }
+  
+  .vigo{
+    color: #FF3F0F;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 11px;
+    
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+}

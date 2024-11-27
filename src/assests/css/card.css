@@ -1,0 +1,738 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@500&display=swap');
+
+.backgrd {
+  background-image: url("../img/line1.png");
+ background-size:contain; 
+ background-position:center;
+ background-repeat: no-repeat; 
+
+ 
+}
+
+
+
+
+
+.head {
+  color: #1a1a1a;
+
+  font-family: 'Noto Sans', sans-serif;
+
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: 100px;
+
+}
+.cardsec {
+  height: 440px;
+  padding-top: 45px;
+ 
+
+  border-radius: 14px;
+
+  box-shadow: 0px 5px 20.5px 0px rgba(0, 0, 0, 0.43);
+}
+.card_img {
+  width: 80px;
+  height: 80px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.card1{
+  
+  color: #1a1a1a;
+padding:0px 80px;
+  text-align: center;
+  font-family: 'Noto Sans', sans-serif;
+
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.card2{
+  color: #1a1a1a;
+  padding:0px 55px;
+    text-align: center;
+    font-family: 'Noto Sans', sans-serif;
+
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.card3{
+  color: #1a1a1a;
+  padding:0px 40px;
+    text-align: center;
+    font-family: 'Noto Sans', sans-serif;
+
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.title {
+  color: #1a1a1a;
+
+  font-family: 'Noto Sans', sans-serif;
+
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+
+/* Responsive */
+
+@media screen and (max-width: 1400px) {
+
+  .head {
+    color: #1a1a1a;
+  
+    font-family: 'Noto Sans', sans-serif;
+
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+  .cardsec {
+    height: 400px;
+    padding-top: 45px;
+   
+  
+    border-radius: 14px;
+  
+    box-shadow: 0px 5px 20.5px 0px rgba(0, 0, 0, 0.43);
+  }
+  .card_img {
+    width: 80px;
+    height: 80px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .card1{
+    
+    color: #1a1a1a;
+  padding:0px 40px;
+    text-align: center;
+    font-family: 'Noto Sans', sans-serif;
+
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .card2{
+    color: #1a1a1a;
+    padding:0px 14px;
+      text-align: center;
+      font-family: 'Noto Sans', sans-serif;
+
+      font-size: 16px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+  }
+  
+  .card3{
+    color: #1a1a1a;
+    padding:0px 6px;
+      text-align: center;
+      font-family: 'Noto Sans', sans-serif;
+
+      font-size: 16px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+  }
+  .title {
+    color: #1a1a1a;
+  
+    font-family: 'Noto Sans', sans-serif;
+
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+  }
+
+  
+}
+@media screen and (max-width: 1100px) {
+
+  .head {
+    color: #1a1a1a;
+  
+    font-family: 'Noto Sans', sans-serif;
+
+    font-size: 46px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+  .cardsec {
+    height: 360px;
+    padding-top: 50px;
+    /* padding-left: 25px;
+    padding-right: 5px; */
+  
+    border-radius: 16px;
+  
+    box-shadow: 0px 5px 20.5px 0px rgba(0, 0, 0, 0.43);
+  }
+  .card_img {
+    width: 70px;
+    height: 70px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .card1{
+    padding-top:20px !important ;
+    color: #1a1a1a;
+  padding:0px 30px;
+    text-align: center;
+    font-family: 'Noto Sans', sans-serif;
+
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .card2{
+    padding-top:20px !important ;
+
+    color: #1a1a1a;
+    padding:0px 18px;
+      text-align: center;
+      font-family: 'Noto Sans', sans-serif;
+
+      font-size: 12px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+  }
+  
+  .card3{
+    padding-top:20px !important ;
+
+    color: #1a1a1a;
+    padding:0px 12px;
+      text-align: center;
+      font-family: 'Noto Sans', sans-serif;
+
+      font-size: 12px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+  }
+  .title {
+    color: #1a1a1a;
+  padding-top: 30px!important;
+  font-family: 'Noto Sans', sans-serif;
+
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 500;
+  }
+  
+
+  
+}
+
+@media screen and (max-width: 900px){
+
+  .backgrd {
+    background-image: url("../img/line1.png");
+   background-size:contain; 
+   background-position:right;
+   background-repeat: no-repeat; 
+  
+  
+  }
+
+
+}
+
+@media screen and (max-width: 992px) {
+
+  .head {
+    color: #1a1a1a;
+  
+    font-family: Noto Sans;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+  .cardsec {
+    height: 300px;
+    padding-top: 30px;
+    /* padding-left: 25px;
+    padding-right: 5px; */
+  
+    border-radius: 16px;
+  
+    box-shadow: 0px 5px 20.5px 0px rgba(0, 0, 0, 0.43);
+  }
+  .card_img {
+    width: 60px;
+    height: 60px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .card1{
+    padding-top:15px !important ;
+    color: #1a1a1a;
+  padding:0px 25px;
+    text-align: center;
+    font-family: Noto Sans;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .card2{
+    padding-top:15px !important ;
+
+    color: #1a1a1a;
+    padding:0px 20px;
+      text-align: center;
+      font-family: Noto Sans;
+      font-size: 11px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+  }
+  
+  .card3{
+    padding-top:15px !important ;
+
+    color: #1a1a1a;
+    padding:0px 10px;
+      text-align: center;
+      font-family: Noto Sans;
+      font-size: 11px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+  }
+  .title {
+    color: #1a1a1a;
+  padding-top: 26px!important;
+    font-family: Noto Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+  }
+  
+
+  
+}
+
+
+
+
+
+@media screen and (max-width: 800px) {
+
+  .head {
+    color: #1a1a1a;
+  
+    font-family: Noto Sans;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+  .cardsec {
+    height: 230px;
+    padding-top: 22px;
+    /* padding-left: 25px;
+    padding-right: 5px; */
+  
+    border-radius: 15px;
+  
+    box-shadow: 0px 5px 20.5px 0px rgba(0, 0, 0, 0.43);
+  }
+  .card_img {
+    width: 45px;
+    height: 45px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .card1{
+    padding-top:12px !important ;
+    color: #1a1a1a;
+  padding:0px 24px;
+    text-align: center;
+    font-family: Noto Sans;
+    font-size: 9px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .card2{
+    padding-top:12px !important ;
+
+    color: #1a1a1a;
+    padding:0px 20px;
+      text-align: center;
+      font-family: Noto Sans;
+      font-size: 9px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+  }
+  
+  .card3{
+    padding-top:12px !important ;
+
+    color: #1a1a1a;
+    padding:0px 12px;
+      text-align: center;
+      font-family: Noto Sans;
+      font-size: 9px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+  }
+  .title {
+    color: #1a1a1a;
+  padding-top: 18px!important;
+    font-family: Noto Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+  }
+  
+
+  
+}
+
+
+@media screen and (max-width: 768px) {
+.margin{
+  margin-top: 70px;
+}
+  .head {
+    color: #1a1a1a;
+    margin-top: 100px;
+    font-family: Noto Sans;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+  .cardsec {
+    height: 500px;
+    padding-top: 45px;
+    /* padding-left: 25px;
+    padding-right: 5px; */
+  
+    border-radius: 15px;
+  
+    box-shadow: 0px 5px 20.5px 0px rgba(0, 0, 0, 0.43);
+  }
+  .card_img {
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .card1{
+    padding-top:20px !important ;
+    color: #1a1a1a;
+  padding:0px 110px;
+    text-align: center;
+    font-family: Noto Sans;
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .card2{
+    padding-top:20px !important ;
+
+    color: #1a1a1a;
+    padding:0px 100px;
+      text-align: center;
+      font-family: Noto Sans;
+      font-size: 23px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+  }
+  
+  .card3{
+    padding-top:20px !important ;
+
+    color: #1a1a1a;
+    padding:0px 12px;
+      text-align: center;
+      font-family: Noto Sans;
+      font-size: 23px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+  }
+  .title {
+    color: #1a1a1a;
+  padding-top: 24px!important;
+    font-family: Noto Sans;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 500;
+  }
+  
+
+  
+}
+
+@media screen and (max-width: 576px) {
+  .margin{
+    margin-top: 80px;
+  }
+    .head {
+      color: #1a1a1a;
+    
+      font-family: Noto Sans;
+      font-size: 38px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: normal;
+    }
+    .cardsec {
+      height: 450px;
+      padding-top: 45px;
+      /* padding-left: 25px;
+      padding-right: 5px; */
+    
+      border-radius: 15px;
+    
+      box-shadow: 0px 5px 20.5px 0px rgba(0, 0, 0, 0.43);
+    }
+    .card_img {
+      width: 80px;
+      height: 80px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .card1{
+      padding-top:20px !important ;
+      color: #1a1a1a;
+    padding:0px 70px;
+      text-align: center;
+      font-family: Noto Sans;
+      font-size: 22px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+    }
+    .card2{
+      padding-top:20px !important ;
+  
+      color: #1a1a1a;
+      padding:0px 40px;
+        text-align: center;
+        font-family: Noto Sans;
+        font-size: 22px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+    }
+    
+    .card3{
+      padding-top:20px !important ;
+  
+      color: #1a1a1a;
+      padding:0px 16px;
+        text-align: center;
+        font-family: Noto Sans;
+        font-size: 22px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+    }
+    .title {
+      color: #1a1a1a;
+    padding-top: 24px!important;
+      font-family: Noto Sans;
+      font-size: 34px;
+      font-style: normal;
+      font-weight: 500;
+    }
+    
+  
+    
+  }
+
+  @media screen and (max-width: 450px) {
+    .margin{
+      margin-top: 80px;
+    }
+      .head {
+        color: #1a1a1a;
+      
+        font-family: Noto Sans;
+        font-size: 34px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+      }
+      .cardsec {
+        height: 400px;
+        padding-top: 45px;
+        /* padding-left: 25px;
+        padding-right: 5px; */
+      
+        border-radius: 15px;
+      
+        box-shadow: 0px 5px 20.5px 0px rgba(0, 0, 0, 0.43);
+      }
+      .card_img {
+        width: 60px;
+        height: 60px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      }
+      .card1{
+        padding-top:20px !important ;
+        color: #1a1a1a;
+      padding:0px 50px;
+        text-align: center;
+        font-family: Noto Sans;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+      }
+      .card2{
+        padding-top:20px !important ;
+    
+        color: #1a1a1a;
+        padding:0px 22px;
+          text-align: center;
+          font-family: Noto Sans;
+        font-size: 16px;
+          font-style: normal;
+          font-weight: 400;
+          line-height: normal;
+      }
+      
+      .card3{
+        padding-top:20px !important ;
+    
+        color: #1a1a1a;
+        padding:0px 20px;
+          text-align: center;
+          font-family: Noto Sans;
+          font-size: 16px;
+          font-style: normal;
+          font-weight: 400;
+          line-height: normal;
+      }
+      .title {
+        color: #1a1a1a;
+      padding-top: 24px!important;
+        font-family: Noto Sans;
+        font-size: 28px;
+        font-style: normal;
+        font-weight: 500;
+      }
+      
+    
+      
+    }
+
+    @media screen and (max-width: 350px) {
+      .margin{
+        margin-top: 80px;
+      }
+        .head {
+          color: #1a1a1a;
+        
+          font-family: Noto Sans;
+          font-size: 32px;
+          font-style: normal;
+          font-weight: 700;
+          line-height: normal;
+        }
+        .cardsec {
+          height: 350px;
+          padding-top: 45px;
+          /* padding-left: 25px;
+          padding-right: 5px; */
+        
+          border-radius: 15px;
+        
+          box-shadow: 0px 5px 20.5px 0px rgba(0, 0, 0, 0.43);
+        }
+        .card_img {
+          width: 50px;
+          height: 50px;
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
+        }
+        .card1{
+          padding-top:20px !important ;
+          color: #1a1a1a;
+        padding:0px 30px;
+          text-align: center;
+          font-family: Noto Sans;
+          font-size: 14px;
+          font-style: normal;
+          font-weight: 400;
+          line-height: normal;
+        }
+        .card2{
+          padding-top:20px !important ;
+      
+          color: #1a1a1a;
+          padding:0px 16px;
+            text-align: center;
+            font-family: Noto Sans;
+          font-size: 14px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+        }
+        
+        .card3{
+          padding-top:20px !important ;
+      
+          color: #1a1a1a;
+          padding:0px 10px;
+            text-align: center;
+            font-family: Noto Sans;
+            font-size: 14px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+        }
+        .title {
+          color: #1a1a1a;
+        padding-top: 24px!important;
+          font-family: Noto Sans;
+          font-size: 26px;
+          font-style: normal;
+          font-weight: 500;
+        }
+        
+      
+        
+      }

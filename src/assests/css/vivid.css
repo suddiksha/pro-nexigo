@@ -1,0 +1,565 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+/* .bty{
+    background-image: url("../img/line2.png");
+    background-size: contain;
+  background-repeat: no-repeat;
+background-position: 100% 100%;
+
+
+} */
+
+.viw{
+    overflow: hidden;
+    padding: 0px 70px;
+}
+.bty2{
+    position:relative;
+       left: 200px;
+
+}
+.t1{
+    color: white;
+}
+.btyhead1 {
+    color: #1A1A1A;
+    font-family: 'Noto Sans', sans-serif;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.head1{
+    color: #000;
+    font-family: 'Noto Sans', sans-serif;
+
+font-size: 22px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-transform: uppercase;
+}
+.ultra{
+    color: #FF3F0F;
+    font-family: 'Noto Sans', sans-serif;
+
+font-size: 22px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-transform: uppercase;
+}
+.row1{
+    padding-top: 100px;
+}
+.vividpara{
+    color: #000;
+    font-family: 'Noto Sans', sans-serif;
+
+    font-size: 14px;
+    
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 0.32px;
+    overflow: auto;
+}
+.vividpoint{
+    color: #000;
+    font-family: 'Noto Sans', sans-serif;
+
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.circle1.css-i4bv87-MuiSvgIcon-root{
+    width: 1%;
+    height: 1%;}
+
+
+
+    @media screen and (max-width: 1200px){
+        .viw{
+            overflow: hidden;
+            padding: 0px 70px;
+        }
+        .bty2{
+            position:relative;
+               left: 200px;
+        
+        }
+        .btyhead1 {
+            color: #1A1A1A;
+            font-family: 'Noto Sans', sans-serif;
+        font-size: 38px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        }
+        .head1{
+            color: #000;
+            font-family: 'Noto Sans', sans-serif;
+        
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        text-transform: uppercase;
+        }
+        .ultra{
+            color: #FF3F0F;
+            font-family: 'Noto Sans', sans-serif;
+        
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        text-transform: uppercase;
+        }
+        .row1{
+            padding-top: 100px;
+        }
+        .vividpara{
+            color: #000;
+            font-family: 'Noto Sans', sans-serif;
+        
+            font-size: 13px;
+            
+            font-style: normal;
+            font-weight: 400;
+            letter-spacing: 0.32px;
+            overflow: auto;
+        }
+        .vividpoint{
+            color: #000;
+            font-family: 'Noto Sans', sans-serif;
+        
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        }
+        .circle1.css-i4bv87-MuiSvgIcon-root{
+            width: 1%;
+            height: 1%;}
+
+    }
+
+
+
+
+    @media screen and (max-width: 992px){
+        .viw{
+            overflow: hidden;
+            padding: 0px 70px;
+        }
+        .bty2{
+            position:relative;
+               left: 150px;
+        
+        }
+        .btyhead1 {
+            color: #1A1A1A;
+            font-family: 'Noto Sans', sans-serif;
+        font-size: 38px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        }
+        .head1{
+            color: #000;
+            font-family: 'Noto Sans', sans-serif;
+        
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        text-transform: uppercase;
+        }
+        .ultra{
+            color: #FF3F0F;
+            font-family: 'Noto Sans', sans-serif;
+        
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        text-transform: uppercase;
+        }
+        .row1{
+            padding-top: 100px;
+        }
+        .vividpara{
+            color: #000;
+            font-family: 'Noto Sans', sans-serif;
+        
+            font-size: 11px;
+            
+            font-style: normal;
+            font-weight: 400;
+            letter-spacing: 0.32px;
+            overflow: auto;
+        }
+        .vividpoint{
+            color: #000;
+            font-family: 'Noto Sans', sans-serif;
+        
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        }
+        .circle1.css-i4bv87-MuiSvgIcon-root{
+            width: 1%;
+            height: 1%;}
+
+    }
+
+    
+    @media screen and (max-width: 900px){
+        .viw{
+            overflow: hidden;
+            padding: 0px 70px;
+        }
+        .bty2{
+            position:relative;
+               left: 140px;
+        
+        }
+        .btyhead1 {
+            color: #1A1A1A;
+            font-family: 'Noto Sans', sans-serif;
+        font-size: 38px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        }
+        .head1{
+            color: #000;
+            font-family: 'Noto Sans', sans-serif;
+        
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        text-transform: uppercase;
+        }
+        .ultra{
+            color: #FF3F0F;
+            font-family: 'Noto Sans', sans-serif;
+        
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        text-transform: uppercase;
+        }
+        .row1{
+            padding-top: 100px;
+        }
+        .vividpara{
+            color: #000;
+            font-family: 'Noto Sans', sans-serif;
+        
+            font-size: 10px;
+            
+            font-style: normal;
+            font-weight: 400;
+            letter-spacing: 0.32px;
+            overflow: auto;
+        }
+        .vividpoint{
+            color: #000;
+            font-family: 'Noto Sans', sans-serif;
+        
+        font-size: 11px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        }
+        .circle1.css-i4bv87-MuiSvgIcon-root{
+            width: 1%;
+            height: 1%;}
+
+    }
+
+    @media screen and (max-width:768px){
+        .viw{
+           
+            padding: 0px 30px!important;
+        }
+        .bty2{
+            position: none !important;;
+               left: 0px !important;
+               width: 100%!important;
+               height: auto;
+               text-align: center!important;
+        }
+        .btyhead1 {
+            color: #1A1A1A;
+            font-family: 'Noto Sans', sans-serif;
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        margin-top: 52px!important;
+        }
+        .head1{
+            color: #000;
+            font-family: 'Noto Sans', sans-serif;
+        
+        font-size: 25px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        text-transform: uppercase;
+        }
+        .ultra{
+            color: #FF3F0F;
+            font-family: 'Noto Sans', sans-serif;
+        
+        font-size: 25px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        text-transform: uppercase;
+        }
+        .row1{
+            padding-top: 100px;
+        }
+        .vividpara{
+            color: #000;
+            font-family: 'Noto Sans', sans-serif;
+        
+            font-size: 17px;
+            
+            font-style: normal;
+            font-weight: 400;
+            letter-spacing: 0.32px;
+            overflow: auto;
+        }
+        .vividpoint{
+            color: #000;
+            font-family: 'Noto Sans', sans-serif;
+        
+        font-size: 19px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        }
+        .circle1.css-i4bv87-MuiSvgIcon-root{
+            width: 1%;
+            height: 1%;}
+
+    }
+
+    @media screen and (max-width:576px){
+        .viw{
+           
+            padding: 0px 20px!important;
+        }
+        .bty2{
+            position: none !important;;
+               left: 0px !important;
+               width: 100%!important;
+               height: auto;
+               text-align: center!important;
+        }
+        .btyhead1 {
+            color: #1A1A1A;
+            font-family: 'Noto Sans', sans-serif;
+        font-size: 38px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        margin-top: 52px!important;
+        }
+        .head1{
+            color: #000;
+            font-family: 'Noto Sans', sans-serif;
+        
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        text-transform: uppercase;
+        }
+        .ultra{
+            color: #FF3F0F;
+            font-family: 'Noto Sans', sans-serif;
+        
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        text-transform: uppercase;
+        }
+        .row1{
+            padding-top: 100px;
+        }
+        .vividpara{
+            color: #000;
+            font-family: 'Noto Sans', sans-serif;
+        
+            font-size: 14px;
+            
+            font-style: normal;
+            font-weight: 400;
+            letter-spacing: 0.32px;
+            overflow: auto;
+        }
+        .vividpoint{
+            color: #000;
+            font-family: 'Noto Sans', sans-serif;
+        
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        }
+        .circle1.css-i4bv87-MuiSvgIcon-root{
+            width: 1%;
+            height: 1%;}
+
+    }
+
+    @media screen and (max-width:450px){
+        .viw{
+           
+            padding: 0px 20px!important;
+        }
+        .bty2{
+            position: none !important;;
+               left: 0px !important;
+               width: 90%!important;
+               height: auto;
+               text-align: center!important;
+        }
+        .btyhead1 {
+            color: #1A1A1A;
+            font-family: 'Noto Sans', sans-serif;
+        font-size: 34px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        margin-top: 52px!important;
+        }
+        .head1{
+            color: #000;
+            font-family: 'Noto Sans', sans-serif;
+        
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        text-transform: uppercase;
+        }
+        .ultra{
+            color: #FF3F0F;
+            font-family: 'Noto Sans', sans-serif;
+        
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        text-transform: uppercase;
+        }
+        .row1{
+            padding-top: 100px;
+        }
+        .vividpara{
+            color: #000;
+            font-family: 'Noto Sans', sans-serif;
+        
+            font-size: 12px;
+            
+            font-style: normal;
+            font-weight: 400;
+            letter-spacing: 0.32px;
+            overflow: auto;
+        }
+        .vividpoint{
+            color: #000;
+            font-family: 'Noto Sans', sans-serif;
+        
+        font-size: 13px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        }
+        .circle1.css-i4bv87-MuiSvgIcon-root{
+            width: 1%;
+            height: 1%;}
+
+    }
+
+
+    @media screen and (max-width:350px){
+        .viw{
+           
+            padding: 0px 20px!important;
+        }
+        .bty2{
+            position: none !important;;
+               left: 0px !important;
+               width: 80%!important;
+               height: auto;
+               text-align: center!important;
+        }
+        .btyhead1 {
+            color: #1A1A1A;
+            font-family: 'Noto Sans', sans-serif;
+        font-size: 32px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        margin-top: 52px!important;
+        }
+        .head1{
+            color: #000;
+            font-family: 'Noto Sans', sans-serif;
+        
+        font-size: 11px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        text-transform: uppercase;
+        }
+        .ultra{
+            color: #FF3F0F;
+            font-family: 'Noto Sans', sans-serif;
+        
+        font-size: 11px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        text-transform: uppercase;
+        }
+        .row1{
+            padding-top: 100px;
+        }
+        .vividpara{
+            color: #000;
+            font-family: 'Noto Sans', sans-serif;
+        
+            font-size: 11px;
+            
+            font-style: normal;
+            font-weight: 400;
+            letter-spacing: 0.32px;
+            overflow: auto;
+        }
+        .vividpoint{
+            color: #000;
+            font-family: 'Noto Sans', sans-serif;
+        
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        }
+        .circle1.css-i4bv87-MuiSvgIcon-root{
+            width: 1%;
+            height: 1%;}
+
+    }

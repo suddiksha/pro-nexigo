@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400&display=swap');
+
+
+.core-title{
+    
+    font-family: 'Noto Sans', sans-serif;
+font-size: 12px;
+    font-style: normal;
+    font-weight: bold;
+}
+.coreimg{
+    width: 60px;
+    height: 60px;
+}
+.name{
+    
+    font-family: 'Noto Sans', sans-serif;
+font-size: 14px;
+    font-style: normal;
+    font-weight: bold;
+}
+.core-card {
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    height: 140px;
+    border-radius: 38px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.064), 0 6px 20px 0 rgba(0, 0, 0, 0.16);
+}
+
+.cp1{
+    font-family: 'Noto Sans', sans-serif;
+   font-size: 13px;
+   font-style: normal;
+   font-weight: 400;
+
+ 
+}
+.sp{
+    display: flex; /* Use flexbox */
+    justify-content: center; /* Center content horizontally */
+    align-items: center;
+}

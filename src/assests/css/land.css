@@ -1,0 +1,648 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;600;800&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap');
+ /* .land-title{
+  padding: 0 70px;}  */
+  .land{
+    
+    padding: 0 10px;} 
+
+.bty-phone{
+  width:100%;
+  height: auto;
+}
+.vigor-phone{
+  font-family: "Noto Sans", sans-serif;
+  color: #454444;
+  font-size: 40px;
+  font-weight: 800;
+}
+.best-phone{
+  font-family: "Noto Sans", sans-serif;
+  color: #ff8450;
+  font-size: 34px;
+  font-weight: 600;
+}
+
+.best {
+  font-family: "Noto Sans", sans-serif;
+  color: #454444;
+  font-size: 50px;
+  font-weight: 800;
+  margin-top: 100px;
+}
+.lithium-phone{
+  color: #ff8450;
+  font-family: "Noto Sans", sans-serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+
+
+}
+.lithium {
+  color: #ff8450;
+  font-family: "Noto Sans", sans-serif;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.learn_more.css-sghohy-MuiButtonBase-root-MuiButton-root {
+  background-color: #f4815a;
+  color: black;
+  border-radius: 7px;
+  font-size: 16px;
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 600;
+  box-shadow: none;
+  padding: 6px 22px;
+}
+.learn_more.css-sghohy-MuiButtonBase-root-MuiButton-root:hover{
+  background-color: #f4815a;
+}
+
+.rect{
+  width: 100%;
+height: auto;
+margin-top: -340px;
+}
+.lithium-sub{
+  color: #000;
+width: 350px;
+font-family: "Noto Sans";
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+
+}
+.para-phone{
+  color: #000;
+  
+  font-family: "Noto Sans";
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+}
+.learn.css-sghohy-MuiButtonBase-root-MuiButton-root {
+  background-color: #f4815a;
+  color: black;
+  border-radius: 7px;
+  font-size: 20px;
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 600;
+  box-shadow: none;
+  padding: 6px 22px;
+}
+.learn.css-sghohy-MuiButtonBase-root-MuiButton-root:hover{
+  background-color: #f4815a;
+}
+
+.appln-img {
+  margin-right: 100px;
+  margin-top: -230px;
+}
+
+.bty4 {
+  width: 330px;
+  height: 520px;
+  position: relative;
+left:120px;
+  z-index: 4;
+}
+
+.appln {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  text-align: end;
+ 
+}
+.appln-phone{
+  font-family: 'Noto Sans', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.app1 {
+  width: 65px;
+  height: 65px;
+  border-radius: 40px;
+
+
+  
+}
+.apln{
+  width: 62px;
+  height: 62px;
+  border-radius: 40px;
+}
+.text-phone{
+  color: #000;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+}
+.appln-text{
+  flex-shrink: 0;
+  color: #000;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.land-appln{
+  margin-right: 30px;
+}
+
+
+@media screen and (max-width: 992px) {
+
+
+  
+  
+  .best {
+    font-family: "Noto Sans", sans-serif;
+    color: #454444;
+    font-size: 44px;
+    font-weight: 800;
+    margin-top: 100px;
+  }
+  .lithium {
+    color: #ff8450;
+    font-family: "Noto Sans", sans-serif;
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .lithium-sub{
+    color: #000;
+  width: 350px;
+  font-family: "Noto Sans";
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  
+  }
+  .appln-img {
+    text-align: end;
+    margin-right: 80px;
+    margin-top: -200px;
+  }
+  
+  
+  
+  .appln{
+    font-family: 'Noto Sans', sans-serif;
+  font-family: "Noto Sans";
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 700;
+  
+  
+  
+  }
+  .app1{
+    width: 62px;
+  height: 62px;
+  border-radius: 40px;
+  flex-shrink: 0;
+  }
+  
+  .land-appln{
+    color: #000;
+  
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    
+  }
+  .rect{
+    width: 100%;
+  height: auto;
+  margin-top: -300px;
+  }
+  .land-appln{
+    margin-right: 10px;
+  }
+  .bty4 {
+    width: 300px;
+    height: 500px;
+    position: relative;
+  left:110px;
+    z-index: 4;
+  }
+}
+
+@media screen and (max-width: 800px) {
+
+  
+  
+  
+  .best {
+    font-family: "Noto Sans", sans-serif;
+    color: #454444;
+    font-size: 42px;
+    font-weight: 800;
+    margin-top: 100px;
+  }
+  .lithium {
+    color: #ff8450;
+    font-family: "Noto Sans", sans-serif;
+    font-size: 33px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .lithium-sub{
+    color: #000;
+  width: 320px;
+  font-family: "Noto Sans";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  
+  }
+
+  .appln-img {
+    text-align: end;
+    margin-right: 70px;
+    margin-top: -150px;
+  }
+  
+  
+  
+  .appln{
+    font-family: 'Noto Sans', sans-serif;
+  font-family: "Noto Sans";
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 700;
+  
+  
+  
+  }
+  .app1{
+    width: 62px;
+  height: 62px;
+  border-radius: 40px;
+  flex-shrink: 0;
+  }
+  
+  .land-appln{
+    margin-right: 0px;
+  }
+
+  .bty4 {
+    width: 280px;
+    height: 480px;
+    position: relative;
+  left:80px;
+    z-index: 4;
+  }
+ 
+}
+
+
+
+
+@media screen and (max-width: 768px) {
+
+  .para-phone{
+    color: #000;
+    
+    font-family: "Noto Sans";
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+  }
+  .appln-phone{
+    font-family: 'Noto Sans', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+  }
+  .text-phone{
+    color: #000;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+  }
+ 
+  .learn.css-sghohy-MuiButtonBase-root-MuiButton-root {
+    background-color: #f4815a;
+    color: black;
+    border-radius: 7px;
+    font-size: 20px;
+    font-family: "Noto Sans", sans-serif;
+    font-weight: 600;
+    box-shadow: none;
+    padding: 6px 22px;
+  }
+  .learn.css-sghohy-MuiButtonBase-root-MuiButton-root:hover{
+    background-color: #f4815a;
+  }
+  .bty-phone{
+    width:80%;
+    height: auto;
+  }
+  .vigor-phone{
+    font-family: "Noto Sans", sans-serif;
+    color: #454444;
+    font-size: 40px;
+    font-weight: 800;
+  }
+  .best-phone{
+    font-family: "Noto Sans", sans-serif;
+    color: #ff8450;
+    font-size: 34px;
+    font-weight: 600;
+  }
+  .lithium-phone{
+    color: #ff8450;
+    font-family: "Noto Sans", sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  
+  
+  }
+
+}
+@media screen and (max-width: 576px) {
+
+  .para-phone{
+    color: #000;
+    
+    font-family: "Noto Sans";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+  }
+  .appln-phone{
+    font-family: 'Noto Sans', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+  }
+  .text-phone{
+    color: #000;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+  }
+ 
+  .learn.css-sghohy-MuiButtonBase-root-MuiButton-root {
+    background-color: #f4815a;
+    color: black;
+    border-radius: 7px;
+    font-size: 20px;
+    font-family: "Noto Sans", sans-serif;
+    font-weight: 600;
+    box-shadow: none;
+    padding: 6px 22px;
+  }
+  .learn.css-sghohy-MuiButtonBase-root-MuiButton-root:hover{
+    background-color: #f4815a;
+  }
+  .bty-phone{
+    width:80%;
+    height: auto;
+  }
+  .vigor-phone{
+    font-family: "Noto Sans", sans-serif;
+    color: #454444;
+    font-size: 38px;
+    font-weight: 800;
+  }
+  .best-phone{
+    font-family: "Noto Sans", sans-serif;
+    color: #ff8450;
+    font-size: 30px;
+    font-weight: 600;
+  }
+  .lithium-phone{
+    color: #ff8450;
+    font-family: "Noto Sans", sans-serif;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  
+  
+  }
+
+}
+
+@media screen and (max-width: 480px) {
+  .apln{
+    width: 58px;
+    height: 58px;
+    border-radius: 40px;
+  }
+  .para-phone{
+    color: #000;
+    
+    font-family: "Noto Sans";
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+  }
+  .appln-phone{
+    font-family: 'Noto Sans', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+  }
+  .text-phone{
+    color: #000;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+  }
+ 
+  .learn.css-sghohy-MuiButtonBase-root-MuiButton-root {
+    background-color: #f4815a;
+    color: black;
+    border-radius: 7px;
+    font-size: 18px;
+    font-family: "Noto Sans", sans-serif;
+    font-weight: 600;
+    box-shadow: none;
+    padding: 6px 22px;
+  }
+  .learn.css-sghohy-MuiButtonBase-root-MuiButton-root:hover{
+    background-color: #f4815a;
+  }
+  .bty-phone{
+    width:70%;
+    height: auto;
+  }
+  .vigor-phone{
+    font-family: "Noto Sans", sans-serif;
+    color: #454444;
+    font-size: 38px;
+    font-weight: 800;
+  }
+  .best-phone{
+    font-family: "Noto Sans", sans-serif;
+    color: #ff8450;
+    font-size: 26px;
+    font-weight: 600;
+  }
+  .lithium-phone{
+    color: #ff8450;
+    font-family: "Noto Sans", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  
+  
+  }
+
+}
+
+@media screen and (max-width: 400px) {
+  .apln{
+    width: 50px;
+    height: 50px;
+    border-radius: 35px;
+  }
+  .para-phone{
+    color: #000;
+    
+    font-family: "Noto Sans";
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+  }
+  .appln-phone{
+    font-family: 'Noto Sans', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+  }
+  .text-phone{
+    color: #000;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+  }
+ 
+  .learn.css-sghohy-MuiButtonBase-root-MuiButton-root {
+    background-color: #f4815a;
+    color: black;
+    border-radius: 7px;
+    font-size: 14px;
+    font-family: "Noto Sans", sans-serif;
+    font-weight: 600;
+    box-shadow: none;
+    padding: 6px 20px;
+  }
+  .learn.css-sghohy-MuiButtonBase-root-MuiButton-root:hover{
+    background-color: #f4815a;
+  }
+  .bty-phone{
+    width:80%;
+    height: auto;
+  }
+  .vigor-phone{
+    font-family: "Noto Sans", sans-serif;
+    color: #454444;
+    font-size: 34px;
+    font-weight: 800;
+  }
+  .best-phone{
+    font-family: "Noto Sans", sans-serif;
+    color: #ff8450;
+    font-size: 22px;
+    font-weight: 600;
+  }
+  .lithium-phone{
+    color: #ff8450;
+    font-family: "Noto Sans", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  
+  
+  }
+
+}
+
+@media screen and (max-width: 345px) {
+  .apln{
+    width: 55px;
+    height: 55px;
+    border-radius: 35px;
+  }
+  .para-phone{
+    color: #000;
+    
+    font-family: "Noto Sans";
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+  }
+  .appln-phone{
+    font-family: 'Noto Sans', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+  }
+  .text-phone{
+    color: #000;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+  }
+ 
+  .learn.css-sghohy-MuiButtonBase-root-MuiButton-root {
+    background-color: #f4815a;
+    color: black;
+    border-radius: 7px;
+    font-size: 12px;
+    font-family: "Noto Sans", sans-serif;
+    font-weight: 600;
+    box-shadow: none;
+    padding: 6px 20px;
+  }
+  .learn.css-sghohy-MuiButtonBase-root-MuiButton-root:hover{
+    background-color: #f4815a;
+  }
+  .bty-phone{
+    width:80%;
+    height: auto;
+  }
+  .vigor-phone{
+    font-family: "Noto Sans", sans-serif;
+    color: #454444;
+    font-size: 32px;
+    font-weight: 800;
+  }
+  .best-phone{
+    font-family: "Noto Sans", sans-serif;
+    color: #ff8450;
+    font-size: 16px;
+    font-weight: 600;
+  }
+  .lithium-phone{
+    color: #ff8450;
+    font-family: "Noto Sans", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  
+  
+  }
+
+}
